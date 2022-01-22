@@ -8,8 +8,8 @@ Tabular Model based algo
 1. Policy Iteration
 2. Value Iteration
 
-Tabular Model free algo
-3. SARSA
+Tabular Model free algo<br>
+3. SARSA<br>
 4. Q-learning
 
 Non Tabular Model free algo
