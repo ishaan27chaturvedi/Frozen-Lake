@@ -4,9 +4,9 @@ Developed the Frozen lake game (Environemnt & Environemnt Model) in pure python
 
 Developed Reinforcement learning agents for the game using the following algorithms:
 
-Tabular Model based algo
-1. Policy Iteration
-2. Value Iteration
+Tabular Model based algo<br>
+1. Policy Iteration<br>
+2. Value Iteration<br><br>
 
 Tabular Model free algo<br>
 3. SARSA<br>
