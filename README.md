@@ -16,4 +16,4 @@ Non Tabular Model free algo<br>
 5. SARSA using linear function approximation<br>
 6. Q-learning using linear function approximation<br><br>
 
-There are duplicates of the same files (in jupyter notebooks and python)
+There are duplicates of the same files (in jupyter notebooks and python)<br>
