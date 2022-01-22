@@ -10,10 +10,10 @@ Tabular Model based algo
 
 Tabular Model free algo<br>
 3. SARSA<br>
-4. Q-learning
+4. Q-learning<br><br>
 
-Non Tabular Model free algo
-5. SARSA using linear function approximation
-6. Q-learning using linear function approximation
+Non Tabular Model free algo<br>
+5. SARSA using linear function approximation<br>
+6. Q-learning using linear function approximation<br><br>
 
 There are duplicates of the same files (in jupyter notebooks and python)
